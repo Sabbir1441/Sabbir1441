@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a **Junior Frontend Web Developer** passionate about building smooth, user-friendly, and visually appealing web experiences. I love turning ideas into reality with clean code and creative design.  <br><br>🌱 Currently Learning: Advanced React, Backend Basics  <br>⚡ Tech Stack: React, JavaScript, Tailwind CSS, Firebase  <br>🎯 Goal: Keep improving, keep building, and create awesome projects!</p>
+<p align="left">Hi there! I'm a Junior Frontend Web Developer passionate about building smooth, user-friendly, and visually appealing web experiences. I love turning ideas into reality with clean code and creative design.  <br><br>🌱 Currently Learning: Advanced React, Backend Basics  <br>⚡ Tech Stack: React, JavaScript, Tailwind CSS, Firebase  <br>🎯 Goal: Keep improving, keep building, and create awesome projects!</p>
 
 ###
 
