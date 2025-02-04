@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="320" src="https://i.ibb.co.com/fYk7gj4Y/Blue-Minimalist-Personal-Branding-Youtube-Banner-1.jpg"  />
+  <img height="320" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,19 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="216" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sabbir1441&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -30,18 +42,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="216" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sabbir1441&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
