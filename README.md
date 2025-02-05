@@ -1,5 +1,5 @@
 <div align="center">
-<img height="320" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
+  <img height="320" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
 </div>
 
 ###
@@ -7,9 +7,6 @@
 <h3 align="center">Hey There 👋🏾 I am Md. Sabbir Ahmed</h3>
 
 ###
-
-
----
 
 <h4 align="center">👩‍💻  About Me</h4>
 
@@ -19,60 +16,51 @@
 
 ###
 
-
----
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="216" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sabbir1441" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir1441&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sabbir1441&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
-
----
 
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
+<h3 align="center">Connect  With Me</h3>
 
----
+###
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
 
 ###
 
-
----
-
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sabbir1441.Sabbir1441&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sabbir1441.Sabbir1441&"  />
 </div>
 
 ###
