@@ -22,7 +22,6 @@
 
 ###
 
-<h4 align="center">📊 GitHub Stats</h4>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&show_icons=true&theme=dracula&hide_border=false" height="216" alt="GitHub Stats" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir1441&theme=dracula&hide_border=false" height="220" alt="GitHub Streak" /> <br>
