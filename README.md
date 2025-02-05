@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="520" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
-  <img height="420" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
+<img height="320" src="https://i.ibb.co.com/vCk09Zrx/Blue-Minimalist-Personal-Branding-Youtube-Banner-2.jpg"  />
 </div>
 
 ###
