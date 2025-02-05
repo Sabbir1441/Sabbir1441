@@ -8,6 +8,8 @@
 
 ###
 
+---
+
 <h4 align="center">👩‍💻  About Me</h4>
 
 ###
@@ -16,19 +18,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="216" alt="stats graph"  />
-</div>
+---
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir1441&show_icons=true&theme=dracula&hide_border=false" height="216" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir1441&layout=compact&theme=dracula&hide_border=false" height="150" alt="Languages Used" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir1441&theme=dracula&hide_border=false" height="220" alt="GitHub Streak" />
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir1441&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+  </div>
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir1441&theme=dracula&hide_border=false" height="220" alt="streak graph" />
+
+</div>
 </div>
 
 ###
+
+---
 
 <h3 align="center">🛠 Language and tools</h3>
 
@@ -49,6 +55,8 @@
 </div>
 
 ###
+
+--
 
 <h3 align="center">Connect  With Me</h3>
 
